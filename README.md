@@ -1,4 +1,4 @@
-# US Regional Sales Analysis (Excel)
+# Excel US Regional Sales Dashboard and Analysis
 
 I looked at 7,991 sales orders from May 2018 to December 2020. I wanted to find out where the profit comes from (channels, products, customers, warehouses and sales teams), whether discounts help or hurt, how sales change over time, and how fast orders are delivered.
 
